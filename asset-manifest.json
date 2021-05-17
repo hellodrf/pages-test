@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36fd9483.chunk.css",
+    "main.js": "/static/js/main.9663be2c.chunk.js",
+    "main.js.map": "/static/js/main.9663be2c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/css/2.9e0cac87.chunk.css": "/static/css/2.9e0cac87.chunk.css",
+    "static/js/2.58673f47.chunk.js": "/static/js/2.58673f47.chunk.js",
+    "static/js/2.58673f47.chunk.js.map": "/static/js/2.58673f47.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fc9b89f32138680bb3a3acf1de55a5eb.js": "/precache-manifest.fc9b89f32138680bb3a3acf1de55a5eb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9e0cac87.chunk.css.map": "/static/css/2.9e0cac87.chunk.css.map",
+    "static/css/main.36fd9483.chunk.css.map": "/static/css/main.36fd9483.chunk.css.map",
+    "static/js/2.58673f47.chunk.js.LICENSE.txt": "/static/js/2.58673f47.chunk.js.LICENSE.txt",
+    "static/media/RS-UnimelbLogo.svg": "/static/media/RS-UnimelbLogo.80aeb2c5.svg",
+    "static/media/WelcomePage.css": "/static/media/background.10edce5b.jpg",
+    "static/media/card-image.jpg": "/static/media/card-image.8784cb96.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/css/2.9e0cac87.chunk.css",
+    "static/js/2.58673f47.chunk.js",
+    "static/css/main.36fd9483.chunk.css",
+    "static/js/main.9663be2c.chunk.js"
+  ]
+}
